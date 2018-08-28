@@ -1,7 +1,7 @@
 #!/bin/sh
 
-#Create beichenwenxin
-#Time Tue Aug 28 09:39:44 2018
+#Author beichenwenxin https://github.com/beichenwenxin/shell/blob/master/lftp_file.sh
+#Create on Tue Aug 28 09:39:44 2018
 
 #本地存放日志的目录
 LOG=${HOME}/log/
